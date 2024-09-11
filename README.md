@@ -9,8 +9,6 @@
 
 #### Features:
 
-<br />
-
 <ul>
   <li>
     Robust user authentication using JWT and password encryption for enhanced security.
