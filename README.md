@@ -9,7 +9,7 @@
 
 #### Features:
 
-<br /> <br />
+<br />
 
 <ul>
   <li>
@@ -20,6 +20,12 @@
   </li>
   <li>
     MongoDB is used as the database layer, and Mongoose for data modeling, ensuring efficient storage, retrieval and manipulation of job application and user data.
+  </li>
+  <li>
+  Visualizes job application data using Recharts for clear, interactive graphs, helping users keep track of job statuses.
+  </li>
+  <li>
+    and many more...
   </li>
 </ul>
 
