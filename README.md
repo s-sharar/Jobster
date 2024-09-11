@@ -6,7 +6,10 @@
 ### Note: Since this is a free service hosted on render, it takes around a minute to load after 15 minutes of inactivity.
 
 <hr />
+
 ####Features:
+
+<hr />
 
 <ul>
   <li>
