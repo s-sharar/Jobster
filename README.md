@@ -7,9 +7,9 @@
 
 <hr />
 
-####Features:
+#### Features:
 
-<hr />
+<br /> <br />
 
 <ul>
   <li>
