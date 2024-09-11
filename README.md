@@ -25,7 +25,7 @@
   Visualizes job application data using Recharts for clear, interactive graphs, helping users keep track of job statuses.
   </li>
   <li>
-    and many more...
+    and many more
   </li>
 </ul>
 
