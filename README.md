@@ -2,7 +2,9 @@
 ## A dynamic web application to manage job applications.
 ### Created using React, Express, MongoDB and Mongoose.
 <hr />
+
 ### Note: Since this is a free service hosted on render, it takes around a minute to load after 15 minutes of inactivity.
+
 <hr />
 ####Features:
 
